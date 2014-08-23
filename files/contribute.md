@@ -1,18 +1,18 @@
 How to contribute?
 ==================
 
-**Meteor Kitchen** is under developement, its new and not well tested yet. If you find this project interesting, please feel free to:
+**Meteor Kitchen** is under development, quite new and not well tested yet. If you find this project interesting, please feel free to:
 
-- Report issues or request features at this <a href="https://github.com/perak/kitchen-site/issues" target="_blank">GitHub page</a>.
+- Report issues or request features at this [GitHub page](https://github.com/perak/kitchen-site/issues)
 
-- Ask questions and discuss in <a href="https://groups.google.com/forum/#!topic/meteor-talk/zXgP7ddCdHk" target="_blank">meteor-talk</a> forum.
+- Ask questions and discuss at the [meteor-talk](https://groups.google.com/forum/#!topic/meteor-talk/zXgP7ddCdHk) forum.
 
 
 Contributors
 ============
 
-<a href="https://github.com/perak" target="_blank"><b>Petar Korponaić</b></a> - original author
+[Petar Korponaić](https://github.com/perak) - original author
 
-<a href="https://github.com/npvn" target="_blank"><b>Phúc Nguyễn</b></a> - improving docs
+[Phúc Nguyễn](https://github.com/npvn) - docs impovement
 
-<a href="#" target="_blank"><b>Daniel Zec</b></a> - super cool logo design
+**Daniel Zec** - super cool logo design
